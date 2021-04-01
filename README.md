@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zaraiyra
+- 👀 I’m interested in sports and music
+- 🌱 I’m currently learning computer science in cs50 also English
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : zaraiyrail@gmail.com
